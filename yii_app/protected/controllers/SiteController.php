@@ -2,6 +2,8 @@
 
 class SiteController extends Controller
 {
+	// si configuramos en el config el theme no es necesario agregar el path del  layout
+	// public $layout='//layouts/main';
 	/**
 	 * Declares class-based actions.
 	 */

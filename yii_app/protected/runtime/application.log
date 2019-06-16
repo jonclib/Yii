@@ -1,0 +1,810 @@
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery/dist/jquery.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery/dist/jquery.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/css/AdminLTE.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/css/AdminLTE.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/font-awesome/css/font-awesome.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/font-awesome/css/font-awesome.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/Ionicons/css/ionicons.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/Ionicons/css/ionicons.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/iCheck/square/blue.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/iCheck/square/blue.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/raphael/raphael.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/raphael/raphael.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/morris.js/morris.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/morris.js/morris.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap/dist/css/bootstrap.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap/dist/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-ui/jquery-ui.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-ui/jquery-ui.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-knob/dist/jquery.knob.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-knob/dist/jquery.knob.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/moment/min/moment.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/moment/min/moment.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap-daterangepicker/daterangepicker.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap-daterangepicker/daterangepicker.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/fastclick/lib/fastclick.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/fastclick/lib/fastclick.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/adminlte.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/adminlte.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/pages/dashboard.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/pages/dashboard.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/demo.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/demo.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/iCheck/icheck.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/iCheck/icheck.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-ui/jquery-ui.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-ui/jquery-ui.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/raphael/raphael.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/raphael/raphael.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/morris.js/morris.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/morris.js/morris.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-knob/dist/jquery.knob.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-knob/dist/jquery.knob.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/moment/min/moment.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/moment/min/moment.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap-daterangepicker/daterangepicker.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap-daterangepicker/daterangepicker.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/fastclick/lib/fastclick.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/fastclick/lib/fastclick.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/adminlte.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/adminlte.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/pages/dashboard.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/pages/dashboard.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/demo.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/demo.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery/dist/jquery.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery/dist/jquery.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/iCheck/icheck.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/iCheck/icheck.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap/dist/css/bootstrap.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap/dist/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/font-awesome/css/font-awesome.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/font-awesome/css/font-awesome.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/Ionicons/css/ionicons.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/Ionicons/css/ionicons.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/css/AdminLTE.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/css/AdminLTE.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/iCheck/square/blue.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/iCheck/square/blue.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery/dist/jquery.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery/dist/jquery.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-ui/jquery-ui.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-ui/jquery-ui.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/pages/dashboard.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/pages/dashboard.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/demo.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/demo.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/morris.js/morris.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/morris.js/morris.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/raphael/raphael.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/raphael/raphael.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-knob/dist/jquery.knob.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-knob/dist/jquery.knob.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/moment/min/moment.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/moment/min/moment.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap-daterangepicker/daterangepicker.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap-daterangepicker/daterangepicker.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/adminlte.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/adminlte.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/fastclick/lib/fastclick.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/fastclick/lib/fastclick.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/iCheck/icheck.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/iCheck/icheck.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/morris.js/morris.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/morris.js/morris.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-knob/dist/jquery.knob.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-knob/dist/jquery.knob.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/moment/min/moment.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/moment/min/moment.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap-daterangepicker/daterangepicker.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap-daterangepicker/daterangepicker.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/fastclick/lib/fastclick.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/fastclick/lib/fastclick.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/adminlte.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/adminlte.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/pages/dashboard.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/pages/dashboard.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/js/demo.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/js/demo.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/jquery/dist/jquery.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/jquery/dist/jquery.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap/dist/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/iCheck/icheck.min.js". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/iCheck/icheck.min.js
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/font-awesome/css/font-awesome.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/font-awesome/css/font-awesome.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/Ionicons/css/ionicons.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/Ionicons/css/ionicons.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/bower_components/bootstrap/dist/css/bootstrap.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/bower_components/bootstrap/dist/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/dist/css/AdminLTE.min.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/dist/css/AdminLTE.min.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
+2019/06/16 21:45:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "themes/front/admin-lte/plugins/iCheck/square/blue.css". in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/front/ad...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii\yii_app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/yii_app/themes/front/admin-lte/plugins/iCheck/square/blue.css
+HTTP_REFERER=http://localhost/yii/yii_app/
+---
